@@ -1,3 +1,5 @@
+package model;
+
 /**
  * Created by Nash on 24/03/15.
  */
